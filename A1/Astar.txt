@@ -1,0 +1,19 @@
+Question 1: Suppose you want to use A* and you have a heuristic that may overestimate or underestimate
+cost to the goal by as much as 20%. Can you do anything to guarantee the algorithm will find
+the optimal solution (if one exists)?
+
+Question 1 Answer:
+
+
+Question 2: (True or False) Assume you you are playing Lunar Lockout on a board that has three xanadus.
+The sum of the Manhattan distances between each xanadu and the exit is an admissible heuristic
+for this problem, should you use A-star to solve it.
+
+Question 2 Answer: False, the sum of the manhattan distances between each xanadu and the exit is not an admissible
+heuristic.  This is because there will be scenarios where the sum of the manhattan distances will overestimate the cost
+to reach the goal (go over the true cost) since getting to the goal in lunar lockout doesn't depend on the manhattan
+distance from the goal but instead depends on moves in a straight line until collision with another object.  We can count
+the cost of this move in a straight line as 1 which is significantly less than what the manhattan distance measurement of
+this same move will give us in some scenarios.  Example, if one of the xanadu's is directly above the goal, 4 blocks away,
+its manhattan distance will be 4 but its actual "true" cost would be only 1 because we only need to make 1 move to get to
+the goal, if there were a robot allowing it to get to the goal.
