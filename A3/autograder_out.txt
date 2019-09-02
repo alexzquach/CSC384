@@ -1,0 +1,85 @@
+C:\Users\z-was\AppData\Local\Programs\Python\Python37-32\python.exe C:/Users/z-was/Documents/UofT_Second_Year/_Summer/CSC384/csc384/a3/csp_code/autograder.py
+Solving board
+=======================================================
+FC
+CSP binary_ne solved. CPU Time used = 0.0
+CSP binary_ne  Assignments =
+Var--11  =  1     Var--12  =  3     Var--13  =  2     Var--21  =  2     Var--22  =  1     Var--23  =  3     Var--31  =  3     Var--32  =  2     Var--33  =  1
+bt_search finished
+Search made 10 variable assignments and pruned 20 variable values
+GAC
+CSP binary_ne solved. CPU Time used = 0.0
+CSP binary_ne  Assignments =
+Var--11  =  1     Var--12  =  3     Var--13  =  2     Var--21  =  2     Var--22  =  1     Var--23  =  3     Var--31  =  3     Var--32  =  2     Var--33  =  1
+bt_search finished
+Search made 9 variable assignments and pruned 17 variable values
+Solution
+[1, 3, 2]
+[2, 1, 3]
+[3, 2, 1]
+Solving board
+=======================================================
+FC
+CSP binary_ne solved. CPU Time used = 0.0
+CSP binary_ne  Assignments =
+Var--11  =  3     Var--12  =  1     Var--13  =  2     Var--14  =  4     Var--21  =  2     Var--22  =  4     Var--23  =  3     Var--24  =  1     Var--31  =  1     Var--32  =  2     Var--33  =  4     Var--34  =  3     Var--41  =  4     Var--42  =  3     Var--43  =  1     Var--44  =  2
+bt_search finished
+Search made 57 variable assignments and pruned 168 variable values
+GAC
+CSP binary_ne solved. CPU Time used = 0.0
+CSP binary_ne  Assignments =
+Var--11  =  3     Var--12  =  1     Var--13  =  2     Var--14  =  4     Var--21  =  2     Var--22  =  4     Var--23  =  3     Var--24  =  1     Var--31  =  1     Var--32  =  2     Var--33  =  4     Var--34  =  3     Var--41  =  4     Var--42  =  3     Var--43  =  1     Var--44  =  2
+bt_search finished
+Search made 35 variable assignments and pruned 76 variable values
+Solution
+[3, 1, 2, 4]
+[2, 4, 3, 1]
+[1, 2, 4, 3]
+[4, 3, 1, 2]
+Solving board
+=======================================================
+FC
+CSP binary_ne solved. CPU Time used = 0.03125
+CSP binary_ne  Assignments =
+Var--11  =  5     Var--12  =  2     Var--13  =  1     Var--14  =  4     Var--15  =  3     Var--21  =  1     Var--22  =  4     Var--23  =  5     Var--24  =  3     Var--25  =  2     Var--31  =  2     Var--32  =  5     Var--33  =  3     Var--34  =  1     Var--35  =  4     Var--41  =  3     Var--42  =  1     Var--43  =  4     Var--44  =  2     Var--45  =  5     Var--51  =  4     Var--52  =  3     Var--53  =  2     Var--54  =  5     Var--55  =  1
+bt_search finished
+Search made 589 variable assignments and pruned 2508 variable values
+GAC
+CSP binary_ne solved. CPU Time used = 0.0625
+CSP binary_ne  Assignments =
+Var--11  =  5     Var--12  =  2     Var--13  =  1     Var--14  =  4     Var--15  =  3     Var--21  =  1     Var--22  =  4     Var--23  =  5     Var--24  =  3     Var--25  =  2     Var--31  =  2     Var--32  =  5     Var--33  =  3     Var--34  =  1     Var--35  =  4     Var--41  =  3     Var--42  =  1     Var--43  =  4     Var--44  =  2     Var--45  =  5     Var--51  =  4     Var--52  =  3     Var--53  =  2     Var--54  =  5     Var--55  =  1
+bt_search finished
+Search made 295 variable assignments and pruned 826 variable values
+Solution
+[5, 2, 1, 4, 3]
+[1, 4, 5, 3, 2]
+[2, 5, 3, 1, 4]
+[3, 1, 4, 2, 5]
+[4, 3, 2, 5, 1]
+Solving board
+=======================================================
+FC
+CSP binary_ne solved. CPU Time used = 10.65625
+CSP binary_ne  Assignments =
+Var--11  =  5     Var--12  =  6     Var--13  =  3     Var--14  =  4     Var--15  =  1     Var--16  =  2     Var--21  =  6     Var--22  =  1     Var--23  =  4     Var--24  =  5     Var--25  =  2     Var--26  =  3     Var--31  =  4     Var--32  =  5     Var--33  =  2     Var--34  =  3     Var--35  =  6     Var--36  =  1     Var--41  =  3     Var--42  =  4     Var--43  =  1     Var--44  =  2     Var--45  =  5     Var--46  =  6     Var--51  =  2     Var--52  =  3     Var--53  =  6     Var--54  =  1     Var--55  =  4     Var--56  =  5     Var--61  =  1     Var--62  =  2     Var--63  =  5     Var--64  =  6     Var--65  =  3     Var--66  =  4
+bt_search finished
+Search made 82469 variable assignments and pruned 408832 variable values
+GAC
+CSP binary_ne solved. CPU Time used = 0.71875
+CSP binary_ne  Assignments =
+Var--11  =  5     Var--12  =  6     Var--13  =  3     Var--14  =  4     Var--15  =  1     Var--16  =  2     Var--21  =  6     Var--22  =  1     Var--23  =  4     Var--24  =  5     Var--25  =  2     Var--26  =  3     Var--31  =  4     Var--32  =  5     Var--33  =  2     Var--34  =  3     Var--35  =  6     Var--36  =  1     Var--41  =  3     Var--42  =  4     Var--43  =  1     Var--44  =  2     Var--45  =  5     Var--46  =  6     Var--51  =  2     Var--52  =  3     Var--53  =  6     Var--54  =  1     Var--55  =  4     Var--56  =  5     Var--61  =  1     Var--62  =  2     Var--63  =  5     Var--64  =  6     Var--65  =  3     Var--66  =  4
+bt_search finished
+Search made 2162 variable assignments and pruned 8395 variable values
+Solution
+[5, 6, 3, 4, 1, 2]
+[6, 1, 4, 5, 2, 3]
+[4, 5, 2, 3, 6, 1]
+[3, 4, 1, 2, 5, 6]
+[2, 3, 6, 1, 4, 5]
+[1, 2, 5, 6, 3, 4]
+Passed First Ord MRV Test
+Passed Second Ord MRV Test
+Passed First Ord LCV Test
+Passed Second Ord LCV Test
+
+Process finished with exit code 0
